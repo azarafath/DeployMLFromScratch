@@ -10,13 +10,16 @@ Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Mode
 
 ## Daftar Isi
 1. Docker 
-'''Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model dengan menggunakan Docker.'''
+Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
 
 2. Models
--- Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
+Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
 
 3. Notebooks
--- Folder ini berisi semua kode dan bahan pendukung untuk melakukan training model klasifikasi sampah menggunakan Convolutional Neural Network (CNN).
+Folder ini berisi semua kode dan bahan pendukung untuk melakukan training model klasifikasi sampah menggunakan Convolutional Neural Network (CNN).
+
+4. Dataset
+Folder ini berisi dataset klasifikasi sampah yang digunakan dalam artikel.
 
 Repo ini juga menyediakan link ke dataset klasifikasi sampah yang digunakan dalam artikel, serta model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
 
