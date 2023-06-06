@@ -1,8 +1,16 @@
-Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Model Machine Learning dari Awal Hingga Penggunaan dengan Docker dan TensorFlow Serving". Artikel ini memberikan panduan langkah demi langkah untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
+## DeployMLFromScratch
 
-Artikel tersebut mencakup beberapa topik utama:
+Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Model Machine Learning dari Awal Hingga Penggunaan dengan Docker dan TensorFlow Serving". Topik ini memberikan panduan langkah demi langkah untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
 
-1. 
+## Daftar Isi
+1. Docker 
+-- Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model dengan menggunakan Docker.
+
+2. Models
+-- Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
+
+3. Notebooks
+-- Folder ini berisi semua kode dan bahan pendukung untuk melakukan training model klasifikasi sampah menggunakan Convolutional Neural Network (CNN).
 
 Repo ini juga menyediakan link ke dataset klasifikasi sampah yang digunakan dalam artikel, serta model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
 
