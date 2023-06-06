@@ -10,7 +10,7 @@ Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Mode
 
 ## Daftar Isi
 1. Docker 
--- Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model dengan menggunakan Docker.
+'''Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model dengan menggunakan Docker.'''
 
 2. Models
 -- Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
