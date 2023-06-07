@@ -1,6 +1,6 @@
 ## DeployMLFromScratch
 
-Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Model Machine Learning dari Awal Hingga Penggunaan dengan Docker dan TensorFlow Serving". Topik ini memberikan panduan langkah demi langkah untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
+Repo ini berisi semua kode dan bahan pendukung untuk topik **Cara Deployment Model Machine Learning dari Awal Hingga Penggunaan dengan Docker dan TensorFlow Serving**. Topik ini memberikan panduan langkah demi langkah untuk melakukan deployment model klasifikasi sampah menggunakan **Convolutional Neural Network (CNN)** dengan menggunakan teknologi **Docker** dan **TensorFlow Serving.**
 
 ## Daftar Artikel
 1. [Cara Modelling Klasifikasi Sampah Menggunakan Convolutional Neural Network Sederhana](https://medium.com/@ahmadzakariafathoni/cara-modelling-klasifikasi-sampah-menggunakan-convolutional-neural-network-sederhana-f483d69dc7dc)
@@ -11,13 +11,13 @@ Repo ini berisi semua kode dan bahan pendukung untuk topik "Cara Deployment Mode
 6. Akan diUpdate.
 
 ## Daftar Isi
-1. Deployment : Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
+1. **Deployment** : Folder ini berisi semua kode dan bahan pendukung untuk melakukan deployment model klasifikasi sampah menggunakan Convolutional Neural Network (CNN) dengan menggunakan teknologi Docker dan TensorFlow Serving.
 
-2. Models : Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
+2. **Models** : Folder ini berisi model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
 
-3. Notebooks : Folder ini berisi semua kode dan bahan pendukung untuk melakukan training model klasifikasi sampah menggunakan Convolutional Neural Network (CNN).
+3. **Notebooks** : Folder ini berisi semua kode dan bahan pendukung untuk melakukan training model klasifikasi sampah menggunakan Convolutional Neural Network (CNN).
 
-4. Dataset : Folder ini berisi dataset klasifikasi sampah yang digunakan dalam artikel.
+4. **Dataset** : Folder ini berisi dataset klasifikasi sampah yang digunakan dalam artikel.
 
 Repo ini juga menyediakan link ke dataset klasifikasi sampah yang digunakan dalam artikel, serta model klasifikasi sampah yang telah di-export dalam format SavedModel untuk referensi dan penggunaan lebih lanjut.
 
